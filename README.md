@@ -16,5 +16,5 @@ CLI that talks with the API, preferably using https://github.com/spf13/cobra ( a
 - User should see how good he/she rated compared to others that have taken the quiz, "You scored higher than 60% of all quizzers" 
 
 ## How to Run
-Web Service : Run QuizWebService\main.go. It will receive requests on localhost:8080. 
-Quiz Console: Run QuizConsole\main.go from cmd, using "quiz" as argument.
+- Web Service : Run QuizWebService\main.go. It will receive requests on localhost:8080. 
+- Quiz Console: Run QuizConsole\main.go from cmd, using "quiz" as argument.
